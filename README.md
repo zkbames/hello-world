@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-just a meat-head trying to code
+I'm just a meat-head trying to learn some code
